@@ -1,0 +1,2 @@
+# python-pyqrcode
+python-pyqrcode
